@@ -1,6 +1,7 @@
 
-# The Trapper Keeper
-## Here is a collection of the awesomest binders
+![](https://user-images.githubusercontent.com/4236275/33974126-b8b16198-e054-11e7-86bd-b333f9cde3ba.png)
+
+## A collection of the 🔥🔥🔥🔥🔥 binders
 
 Binders are running reproducible Jupyter notebooks that run in the cloud.  These awesome projects have excellent documentation and visuals.
 
@@ -21,7 +22,3 @@ Binders are running reproducible Jupyter notebooks that run in the cloud.  These
     if __name__ == '__main__':
         !jupyter nbconvert --to markdown readme.ipynb
 ```
-
-    [NbConvertApp] Converting notebook readme.ipynb to markdown
-    [NbConvertApp] Writing 1934 bytes to readme.md
-
