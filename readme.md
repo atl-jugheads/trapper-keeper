@@ -2,6 +2,8 @@
 # The Trapper Keeper
 ## Here is a collection of the awesomest binders
 
+Binders are running reproducible Jupyter notebooks that run in the cloud.  These awesome projects have excellent documentation and visuals.
+
 |Project|Binder Link|
 |------|------|
 |ipyvolume  | <a href="https://beta.mybinder.org/v2/gh/quantopian/qgrid-notebooks/master?filepath=index.ipynb" target="_blank"><img alt="Binder" src="http://mybinder.org/badge.svg"></a>|
@@ -19,3 +21,7 @@
     if __name__ == '__main__':
         !jupyter nbconvert --to markdown readme.ipynb
 ```
+
+    [NbConvertApp] Converting notebook readme.ipynb to markdown
+    [NbConvertApp] Writing 1934 bytes to readme.md
+
