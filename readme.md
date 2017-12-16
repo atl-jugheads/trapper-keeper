@@ -16,6 +16,7 @@ Binders are running reproducible Jupyter notebooks that run in the cloud.  These
 |networkx | <a href="https://hub.mybinder.org/user/networkx-notebooks-i52glmx3/tree" target="_blank"><img alt="Binder" src="http://mybinder.org/badge.svg"></a>|
 |jupyter renderers | <a href="https://hub.mybinder.org/user/jupyterlab-jupyter-renderers-ubadkbro/tree/notebooks" target="_blank"><img alt="Binder" src="http://mybinder.org/badge.svg"></a>|
 |pydata book| <a href="https://hub.mybinder.org/user/wesm-pydata-book-0c8x45oo/tree" target="_blank"><img alt="Binder" src="http://mybinder.org/badge.svg"></a>|
+|bokeh| <a href="https://hub.mybinder.org/user/bokeh-bokeh-notebooks-9s02nyqi/notebooks/tutorial/00%20-%20Introduction%20and%20Setup.ipynb " target="_blank"><img alt="Binder" src="http://mybinder.org/badge.svg"></a>|
 
 
 ```python
